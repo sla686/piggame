@@ -307,11 +307,12 @@ footer p {
   .btn {
     left: 25%;
     padding: 0.5rem 1.5rem;
+    font-size: 1.5rem;
   }
 
   .btn--new {
     /* top: 37rem; */
-    top: 41.5%;
+    top: 40.5%;
   }
 
   .btn--roll {
@@ -321,6 +322,6 @@ footer p {
 
   .btn--hold {
     /* top: 47rem; */
-    top: 53.5%;
+    top: 54.5%;
   }
 }
