@@ -266,6 +266,13 @@ footer p {
     font-size: 1.5rem;
   }
 
+  .current-label {
+    font-size: 1rem;
+  }
+  .current-score {
+    font-size: 2.5rem;
+  }
+
   .name {
     font-size: 3.5rem;
   }
@@ -275,12 +282,17 @@ footer p {
     padding: 1rem;
   }
 
+  .score {
+    font-size: 5rem;
+  }
+
   .player--0 {
-    padding-top: 4rem;
+    padding-top: 1.5rem;
   }
 
   .player--1 {
-    padding-bottom: 4rem;
+    padding-top: 6rem;
+    padding-bottom: 1.5rem;
   }
 
   .dice {
@@ -299,16 +311,16 @@ footer p {
 
   .btn--new {
     /* top: 37rem; */
-    top: 42%;
+    top: 41.5%;
   }
 
   .btn--roll {
     /* top: 42rem; */
-    top: 48%;
+    top: 47.5%;
   }
 
   .btn--hold {
     /* top: 47rem; */
-    top: 54%;
+    top: 53.5%;
   }
 }
